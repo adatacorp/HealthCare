@@ -6,3 +6,9 @@ psycopg2-binary
 bcrypt
 python-dotenv
 pytest
+numpy
+pandas
+scikit-learn
+tensorflow
+matplotlib
+jupyter
